@@ -49,20 +49,22 @@ Contains SQL business questions and their results.
 
 Static dashboard displaying:
 
-* Total Orders
-* Average Sales
-* Revenue by Product
-* Profit by Product
-* Top Customers by Sales
-* Revenue vs Profit
+Total Orders
+Total Sales
+Average Sales
+Total Quantity Sold
+Highest Revenue Product
+
 
 ## Key Findings
 
-* Webcam generated the highest revenue.
-* Webcam generated the highest profit.
-* Rohit was the top customer based on sales.
-* Average sales per order was 27,357.95.
-* Revenue and profit showed a positive relationship.
+Identified the highest revenue-generating products.
+- Compared sales across different categories.
+- Analyzed customer purchasing behavior.
+- Examined city-wise sales performance.
+- Observed monthly sales trends.
+- Explored the relationship between Quantity and Total Sales using correlation analysis.
+
 
 ## Conclusion
 

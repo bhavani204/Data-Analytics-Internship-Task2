@@ -49,11 +49,11 @@ Contains SQL business questions and their results.
 
 Static dashboard displaying:
 
-Total Orders
-Total Sales
-Average Sales
-Total Quantity Sold
-Highest Revenue Product
+*Total Orders
+*Total Sales
+*Average Sales
+*Total Quantity Sold
+*Highest Revenue Product
 
 
 ## Key Findings
